@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phantomcurse
-- 👀 I’m interested in CEC : embedded system , programming  | CS : C++ , java , js , css +html , SQl 
+- 👀 I’m interested in ECE : embedded system , programming  | CS : C++ , java , js , css +html , SQl 
 - 🌱 I’m currently learning ... React and WebDev
 - 
 - 📫 How to reach me ... somujha4ver@gmail.com
